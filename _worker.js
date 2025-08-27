@@ -6,7 +6,7 @@ import { connect } from "cloudflare:sockets";
 const rootDomain = "yayang-suargana.workers.dev"; // Ganti dengan domain utama kalian
 const serviceName = "radennautika"; // Ganti dengan nama workers kalian
 const apiKey = "92f17c4c3fd9d1a8310ed75784cd55a17515e"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
-const apiEmail = ""; // Ganti dengan email yang kalian gunakan
+const apiEmail = "yayang.suargana@gmail.com"; // Ganti dengan email yang kalian gunakan
 const accountID = "2588780d82e5bf485a2d178de93c42f8"; // Ganti dengan Account ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 const zoneID = ""; // Ganti dengan Zone ID kalian (https://dash.cloudflare.com -> Klik domain yang kalian gunakan)
 let isApiReady = false;
